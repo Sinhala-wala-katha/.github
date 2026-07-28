@@ -51,7 +51,7 @@ We are Sri Lanka's most dedicated **Sinhala Wala Katha** platform, bringing you 
 
 ### 🌟 Main Site
 **[Sinhala-wala-katha.github.io](https://github.com/Sinhala-wala-katha/Sinhala-wala-katha.github.io)**
-> The official **Sinhala Wala Katha** website — https://වල්කතා.com/
+> The official **Sinhala Wala Katha** website — https://www.walakatha.net
 
 ---
 
@@ -99,7 +99,7 @@ sinhala katha               wala katha 2026
 
 ## 📬 Contact | සම්බන්ධ වන්න
 
-- 📧 Email: walkatha.com@gmail.com
+- 📧 Email: walakatha.com@gmail.com
 - 🐙 GitHub: https://github.com/Sinhala-wala-katha
 - 🌐 Website: https://sinhala-wala-katha.github.io/
 
